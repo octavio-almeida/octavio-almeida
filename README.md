@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @octavio-almeida
 - 👀 I’m interested in learning languages 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me @victorosf on instagram
 
